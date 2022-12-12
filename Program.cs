@@ -39,6 +39,7 @@ Console.WriteLine(go);
 // и находит расстояние между ними в 3D пространстве.
 // AB = √ (x b — x a) 2 + (y b — y a) 2 + (z b — z a) 2
 
+/*
 double FindDistance(double xA, double yA, double zA, double xB, double yB, double zB)
 {
     double distance = Math.Sqrt(Math.Pow(xB - xA, 2) + Math.Pow(yB - yA, 2) + Math.Pow(zB - zA, 2));
@@ -61,7 +62,26 @@ double zB = Convert.ToDouble(Console.ReadLine());
 
 double dis = FindDistance(xA, yA, zA, xB, yB, zB);
 Console.Write(dis);
+*/
 
+// Задача: Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+/*
+void Cube(double N)
+{
+    double count = 1;
+    while(N >= count)
+    {
+        double result = Math.Pow(count, 3);
+        Console.Write(result + " ");
+        count++;
+    }
+}
+
+Console.Write("Enter a number : ");
+double num = Convert.ToDouble(Console.ReadLine());
+
+Cube(num);
+*/
 
 
 
