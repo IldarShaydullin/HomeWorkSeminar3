@@ -1,0 +1,15 @@
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/HomeWorkSeminar3.csproj.AssemblyReference.cache
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/HomeWorkSeminar3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/HomeWorkSeminar3.AssemblyInfoInputs.cache
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/HomeWorkSeminar3.AssemblyInfo.cs
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/HomeWorkSeminar3.csproj.CoreCompileInputs.cache
+/Users/ildar/HomeWorkSeminar3/bin/Debug/net6.0/HomeWorkSeminar3
+/Users/ildar/HomeWorkSeminar3/bin/Debug/net6.0/HomeWorkSeminar3.deps.json
+/Users/ildar/HomeWorkSeminar3/bin/Debug/net6.0/HomeWorkSeminar3.runtimeconfig.json
+/Users/ildar/HomeWorkSeminar3/bin/Debug/net6.0/HomeWorkSeminar3.dll
+/Users/ildar/HomeWorkSeminar3/bin/Debug/net6.0/HomeWorkSeminar3.pdb
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/HomeWorkSeminar3.dll
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/refint/HomeWorkSeminar3.dll
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/HomeWorkSeminar3.pdb
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/HomeWorkSeminar3.genruntimeconfig.cache
+/Users/ildar/HomeWorkSeminar3/obj/Debug/net6.0/ref/HomeWorkSeminar3.dll
