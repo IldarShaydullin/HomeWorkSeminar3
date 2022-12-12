@@ -37,6 +37,31 @@ Console.WriteLine(go);
 
 // Задача : Напишите программу, которая принимает на вход координаты двух точек 
 // и находит расстояние между ними в 3D пространстве.
+// AB = √ (x b — x a) 2 + (y b — y a) 2 + (z b — z a) 2
+
+double FindDistance(double xA, double yA, double zA, double xB, double yB, double zB)
+{
+    double distance = Math.Sqrt(Math.Pow(xB - xA, 2) + Math.Pow(yB - yA, 2) + Math.Pow(zB - zA, 2));
+    distance = Math.Round(distance, 2);
+    return distance;
+}
+
+Console.Write("Enter the x coordinate of point one : ");
+double xA = Convert.ToDouble(Console.ReadLine());
+Console.Write("Enter the y coordinate of point one : ");
+double yA = Convert.ToDouble(Console.ReadLine());
+Console.Write("Enter the z coordinate of point one : ");
+double zA = Convert.ToDouble(Console.ReadLine());
+Console.Write("Enter the x coordinate of point second : ");
+double xB = Convert.ToDouble(Console.ReadLine());
+Console.Write("Enter the y coordinate of point second : ");
+double yB = Convert.ToDouble(Console.ReadLine());
+Console.Write("Enter the z coordinate of point second : ");
+double zB = Convert.ToDouble(Console.ReadLine());
+
+double dis = FindDistance(xA, yA, zA, xB, yB, zB);
+Console.Write(dis);
+
 
 
 
